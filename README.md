@@ -1,90 +1,189 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SAKTHIVEL%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20FULL%20STACK%20DEVELOPER%20%7C%20SPRING%20BOOT%20%7C%20REACT.JS&descAlignY=58&descSize=16">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SAKTHIVEL%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20FULL%20STACK%20DEVELOPER%20%7C%20SPRING%20BOOT%20%7C%20REACT.JS&descAlignY=58&descSize=16" alt="Header"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=YOUR%20NAME&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=YOUR%20ROLE%20%7C%20YOUR%20ROLE%20%7C%20YOUR%20ROLE&descAlignY=58&descSize=18" style="width:100%; max-width:900px;" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=90%25&lines=Building+Real-World+Web+Applications;Java+%7C+Spring+Boot+%7C+React.js+%7C+MySQL;Learning+Modern+Full+Stack+Development;Exploring+Artificial+Intelligence;Turning+Ideas+Into+Real+Projects" alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/EDUCATION-B.E.%20Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-Java%20Full%20Stack%20Development-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GRADUATION-2026-4C1D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CGPA-7.8-8B5CF6?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+amazing+projects;Learning+new+technologies;Exploring+Artificial+Intelligence;Turning+ideas+into+real+projects" alt="Typing SVG" style="width:100%; max-width:650px;" />
 
 <br/><br/>
 
+<p align="center">
+<img src="https://img.shields.io/badge/EDUCATION-Your%20Degree-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-Your%20Focus-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASED%20IN-Your%20Country-4C1D95?style=for-the-badge"/>
+</p>
+
+<br/>
+
+<p align="center">
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</div>
+
+---
+
+## 👋 About Me
+
+```yaml
+name: YOUR NAME
+education: YOUR DEGREE
+role: YOUR ROLE
+focus:
+  - YOUR SKILL
+  - YOUR SKILL
+  - YOUR SKILL
+currently_learning:
+  - YOUR SKILL
+  - YOUR SKILL
+  - YOUR SKILL
+mindset: Learn → Build → Share → Improve
+```
+
+Write 2–4 lines about yourself here.
+
+---
+
+## 🛠 Tech Stack
+
+### Programming Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" style="max-width:100%;"/>
+</p>
+
+### Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" style="max-width:100%;"/>
+</p>
+
+### Backend & Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,mongodb" style="max-width:100%;"/>
+</p>
+
+### Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" style="max-width:100%;"/>
+</p>
+
+---
+
+## 📈 My Learning Journey
+
+```text
+YOUR CURRENT FIELD
+      ↓
+   YOUR SKILL
+      ↓
+   YOUR SKILL
+      ↓
+   YOUR SKILL
+      ↓
+   YOUR GOAL
+```
+
+### Currently Exploring
+- YOUR TOPIC
+- YOUR TOPIC
+- YOUR TOPIC
+- YOUR TOPIC
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Project 01 — YOUR PROJECT NAME
+Write a short description of your project here.
+
+**Tech Stack:** `Python` `React` `Flask` `MySQL`
+
+---
+
+### 📌 Project 02 — YOUR PROJECT NAME
+Write a short description of your project here.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+---
+
+### 📌 Project 03 — YOUR PROJECT NAME
+Write a short description of your project here.
+
+**Tech Stack:** `Flutter` `Dart` `Firebase`
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - YOUR SKILL
+  - YOUR SKILL
+  - YOUR SKILL
+building:
+  - YOUR PROJECT
+  - YOUR PROJECT
+exploring:
+  - YOUR TOPIC
+  - YOUR TOPIC
+goal:
+  - YOUR GOAL
+  - YOUR GOAL
+```
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/donsakthi">
-  <img src="https://img.shields.io/badge/GitHub-donsakthi-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
-
 ---
 
-# 👋 About Me
+<div align="center">
 
-```yaml
-name: Sakthivel S
+### ✨ Keep Building. Keep Learning. Keep Growing.
 
-role: Java Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8" alt="Footer Animation" style="width:100%; max-width:600px;"/>
 
-education:
-  degree: B.E. Computer Science and Engineering
-  graduation: 2026
-  cgpa: 7.8
+<br/><br/>
 
-focus:
-  - Java
-  - Spring Boot
-  - React.js
-  - REST API Development
-  - MySQL
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" style="width:100%; max-width:900px;"/>
 
-backend:
-  - Java
-  - Spring Boot
-  - Spring Data JPA
-  - Hibernate
-  - REST API
-
-frontend:
-  - React.js
-  - JavaScript
-  - HTML5
-  - CSS3
-  - Bootstrap
-
-database:
-  - MySQL
-  - SQL
-
-tools:
-  - Git
-  - GitHub
-  - VS Code
-  - Maven
-  - Postman
-
-currently_learning:
-  - Advanced Java
-  - Spring Boot
-  - React.js
-  - Data Structures & Algorithms
-  - Artificial Intelligence
-  - System Design
-
-mindset:
-  Learn → Build → Improve → Share → Grow
+</div>
