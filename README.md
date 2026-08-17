@@ -26,13 +26,13 @@
 ## 👋 About Me
 
 ```yaml
-name: YOUR NAME
-education: YOUR DEGREE
-role: YOUR ROLE
+name: SAKTHI VEL
+education: BACHULOR OF ENGINEERING
+role: FULL STUCK DEVLOPER
 focus:
-  - YOUR SKILL
-  - YOUR SKILL
-  - YOUR SKILL
+  - REACT.JS
+  - SPRING BOOT
+  - JAVA
 currently_learning:
   - YOUR SKILL
   - YOUR SKILL
