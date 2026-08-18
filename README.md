@@ -2,12 +2,17 @@
 
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/donsakthi/donsakthi/main/dark.svg"
+    srcset="./dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./light.svg"
   />
 
   <img
-    alt="SAKTHIVEL S"
-    src="https://raw.githubusercontent.com/donsakthi/donsakthi/main/dark.svg"
+    src="./light.svg"
+    alt="SAKTHIVEL S - Java Full Stack Developer"
     width="100%"
   />
 
