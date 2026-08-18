@@ -1,1 +1,303 @@
 
+<svg
+  width="1800"
+  height="420"
+  viewBox="0 0 1800 420"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <defs>
+
+    <linearGradient
+      id="background"
+      x1="0"
+      y1="0"
+      x2="1800"
+      y2="420"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop offset="0%" stop-color="#080B14"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1E1B4B"/>
+    </linearGradient>
+
+    <linearGradient
+      id="accent"
+      x1="300"
+      y1="100"
+      x2="1500"
+      y2="350"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+
+    <linearGradient
+      id="nameGradient"
+      x1="550"
+      y1="130"
+      x2="1250"
+      y2="190"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#DDD6FE"/>
+      <stop offset="100%" stop-color="#BAE6FD"/>
+    </linearGradient>
+
+    <pattern
+      id="grid"
+      width="45"
+      height="45"
+      patternUnits="userSpaceOnUse"
+    >
+      <path
+        d="M45 0H0V45"
+        stroke="#A78BFA"
+        stroke-opacity="0.08"
+        stroke-width="1"
+      />
+    </pattern>
+
+    <filter
+      id="glow"
+      x="-100%"
+      y="-100%"
+      width="300%"
+      height="300%"
+    >
+      <feGaussianBlur
+        stdDeviation="12"
+        result="blur"
+      />
+
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+
+  <!-- Background -->
+
+  <rect
+    width="1800"
+    height="420"
+    rx="24"
+    fill="url(#background)"
+  />
+
+  <!-- Grid -->
+
+  <rect
+    width="1800"
+    height="420"
+    rx="24"
+    fill="url(#grid)"
+  />
+
+
+  <!-- Decorative Glow -->
+
+  <circle
+    cx="140"
+    cy="70"
+    r="150"
+    fill="#7C3AED"
+    fill-opacity="0.12"
+    filter="url(#glow)"
+  />
+
+  <circle
+    cx="1660"
+    cy="350"
+    r="180"
+    fill="#22D3EE"
+    fill-opacity="0.10"
+    filter="url(#glow)"
+  />
+
+
+  <!-- Top Accent -->
+
+  <rect
+    x="650"
+    y="38"
+    width="500"
+    height="3"
+    rx="2"
+    fill="url(#accent)"
+  />
+
+
+  <!-- Code Symbol -->
+
+  <g transform="translate(120 135)">
+
+    <path
+      d="M70 20L20 70L70 120"
+      stroke="#A78BFA"
+      stroke-width="12"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <path
+      d="M110 115L150 25"
+      stroke="#22D3EE"
+      stroke-width="12"
+      stroke-linecap="round"
+    />
+
+    <path
+      d="M190 20L240 70L190 120"
+      stroke="#A78BFA"
+      stroke-width="12"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+  </g>
+
+
+  <!-- Name -->
+
+  <text
+    x="900"
+    y="165"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="72"
+    font-weight="700"
+    letter-spacing="5"
+    fill="url(#nameGradient)"
+  >
+    SAKTHIVEL S
+  </text>
+
+
+  <!-- Role -->
+
+  <text
+    x="900"
+    y="215"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="26"
+    font-weight="600"
+    letter-spacing="3"
+    fill="#C4B5FD"
+  >
+    JAVA FULL STACK DEVELOPER
+  </text>
+
+
+  <!-- Technologies -->
+
+  <text
+    x="900"
+    y="258"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="19"
+    font-weight="500"
+    letter-spacing="2"
+    fill="#CBD5E1"
+  >
+    JAVA  •  SPRING BOOT  •  REACT.JS  •  JAVASCRIPT  •  MYSQL
+  </text>
+
+
+  <!-- Description -->
+
+  <text
+    x="900"
+    y="302"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="18"
+    fill="#94A3B8"
+  >
+    Building modern web applications and turning ideas into real-world projects
+  </text>
+
+
+  <!-- Bottom Accent -->
+
+  <rect
+    x="600"
+    y="340"
+    width="600"
+    height="2"
+    rx="2"
+    fill="url(#accent)"
+  />
+
+
+  <!-- Developer Mindset -->
+
+  <text
+    x="900"
+    y="375"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="16"
+    font-weight="500"
+    letter-spacing="4"
+    fill="#64748B"
+  >
+    LEARN  •  BUILD  •  SHARE  •  IMPROVE
+  </text>
+
+
+  <!-- Decorative Dots -->
+
+  <circle
+    cx="80"
+    cy="330"
+    r="4"
+    fill="#A78BFA"
+  />
+
+  <circle
+    cx="100"
+    cy="350"
+    r="3"
+    fill="#22D3EE"
+  />
+
+  <circle
+    cx="1720"
+    cy="85"
+    r="4"
+    fill="#A78BFA"
+  />
+
+  <circle
+    cx="1695"
+    cy="105"
+    r="3"
+    fill="#22D3EE"
+  />
+
+
+  <!-- Border -->
+
+  <rect
+    x="2"
+    y="2"
+    width="1796"
+    height="416"
+    rx="22"
+    fill="none"
+    stroke="url(#accent)"
+    stroke-opacity="0.3"
+    stroke-width="2"
+  />
+
+</svg>
